@@ -34,7 +34,9 @@ Synthetic MovieLens-style dataset:
 
 ## Libraries Used
 - Python
-- Pandas, NumPy, Matplotlib
+- Pandas
+- NumPy
+- Matplotlib
 - Scikit-learn (TF-IDF, Cosine Similarity)
 - Scikit-Surprise (SVD, Cross-Validation)
 
